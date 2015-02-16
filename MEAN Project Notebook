@@ -1,0 +1,38 @@
+MEAN Project Notebook
+
+1. Express command not working in terminal
+   -when install Express.js, you need to use express-generator : sudo npm install -g express-generator
+
+2. Installzation :
+-install Python
+-install Express
+-install Node.js
+-install Git
+-$npm install -g bower
+ $npm update -g bower
+-$npm install -g grunt-cli
+ $npm update -g grunt-cli
+-$npm install -g yo
+ $npm update -g yo
+-$npm install -g generator-meanjs
+ $npm update -g generator-meanjs
+
+3. mkdir meanProject
+   cd meanProject
+   $yo meanjs
+    -mean project name
+    -descripe
+    -keywords
+    -module? -n
+    -ngTouch
+
+4. config->env->development.js ---- line 4:  db: 'mongodb://localhost:27017/test',
+
+5. $grunt
+
+6. localhost:3000
+
+
+
+
+
